@@ -1,0 +1,3 @@
+# Versions used for local startup and simulation validation.
+PySide6==6.11.1
+PyVISA==1.16.2
